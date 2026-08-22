@@ -1,15 +1,7 @@
 # Hi, I'm Shaurya Bajpai 👋
 
-💻 Full-Stack Software Engineer — B.Tech CSE @ The LNM Institute of Information
-Technology, Jaipur (2023–2027). I build production platforms end-to-end:
-React/Next.js frontends, Node.js/Express APIs, GraphQL gateways over
-microservices, and event-driven backends with Kafka.
-
-- 🔭 Currently building **[Ecom Microservice GraphQL](https://github.com/Shaurya55555/ecom-microservice-graphql)** — a microservices e-commerce platform with a GraphQL gateway, Kafka, and role-based (buyer/seller/admin) Next.js frontend
-- 💼 SDE Intern @ Marine Edge, previously Frontend Web Developer Intern @ APJ Academy
-- 🧩 300+ DSA problems solved on LeetCode
-- 🏆 Runner-Up, LNMIIT HackCrux Hackathon (built **OARFIN**, a disaster-management platform)
-- 📄 [Resume](https://shaurya55555.github.io/Shaurya55555/resume.html) · [LinkedIn](https://www.linkedin.com/in/shaurya-bajpai/) · [LeetCode](https://leetcode.com/u/shaurya55555/)
+### 💫 About Me:
+👨‍💻 Software Engineer with a passion for Full-Stack Dev. Skilled in React.js, Next.js, Tailwind CSS, Redux, TypeScript, Node.js, Express, MongoDB, PostgreSQL, and GraphQL. 🚀 💡 Focused on building scalable, high-performance apps that deliver seamless user experiences. 🌐 Proficient in Agile, DevOps, Docker/Kafka microservices, and AWS, driving efficient project execution. 🔥 Always optimizing performance to build solutions that make an impact!
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +11,12 @@ microservices, and event-driven backends with Kafka.
 
 **DevOps / Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 🏆 Achievements
+
+- 🧩 Solved **300+ DSA problems** on LeetCode
+- 🥈 **Runner-Up**, LNMIIT HackCrux Hackathon — built **OARFIN**, a disaster-management platform
+- 🎓 **GenAI Workshop, LNMIIT** (100/100): Full-stack AI — ANN, CNN, RNN, LLMs, RAG, prompt engineering
+
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shaurya55555&show_icons=true&theme=default&hide_border=true" alt="Shaurya's GitHub stats" height="165" />
@@ -26,6 +24,7 @@ microservices, and event-driven backends with Kafka.
 
 ## 📫 Reach me
 
+[![Resume](https://img.shields.io/badge/-Resume-5B8CFF?style=flat-square&logo=readdotcv&logoColor=white)](https://shaurya55555.github.io/Shaurya55555/resume.html)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-bajpai/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/shaurya55555/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bajpaishaurya2911@gmail.com)
