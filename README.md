@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaurya55555&show_icons=true&theme=default&hide_border=true" alt="Shaurya's GitHub stats" height="165" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya55555&hide_border=true" alt="Shaurya's GitHub streak" height="165" />
 
 ## 📫 Reach me
