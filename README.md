@@ -13,9 +13,27 @@
 
 **DevOps / Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 🌍 Open Source Contributions
+
+**12 merged pull requests across 9 widely used open source projects**, with more in review. [All my pull requests](https://github.com/search?q=author%3AShaurya55555+type%3Apr&type=pullrequests)
+
+| Project | What I fixed | PR |
+|---|---|---|
+| ⭐ [**Kubernetes**](https://github.com/kubernetes/kubernetes) | Compile the wildcard DNS-1123 subdomain regexp once (`apimachinery`) | [#143793](https://github.com/kubernetes/kubernetes/pull/143793) |
+| ⭐ [**Hugging Face PEFT**](https://github.com/huggingface/peft) | Reject `layers_to_transform` combined with a regex `target_modules`, for all PEFT methods | [#4087](https://github.com/huggingface/peft/pull/4087) |
+| ⭐ [**NestJS**](https://github.com/nestjs/nest) | Reset the MQTT client state when closing the connection fails (microservices) | [#18352](https://github.com/nestjs/nest/pull/18352) |
+| [**authlib**](https://github.com/authlib/authlib) | Ignore Basic auth credentials that are not valid UTF-8 (OAuth) | [#999](https://github.com/authlib/authlib/pull/999) |
+| [**GraphQL Yoga**](https://github.com/graphql-hive/graphql-yoga) | Match the request `Content-Type` media type case-insensitively | [#4650](https://github.com/graphql-hive/graphql-yoga/pull/4650) |
+| [**Expo**](https://github.com/expo/expo) | Return `null` from `get()` when a section on the path is not an object (CLI) | [#52975](https://github.com/expo/expo/pull/52975) |
+| [**AWS SAM CLI**](https://github.com/aws/aws-sam-cli) | Compare `Fn::Equals` values as strings, as CloudFormation does | [#9407](https://github.com/aws/aws-sam-cli/pull/9407) |
+| [**promptfoo**](https://github.com/promptfoo/promptfoo) | Surface Mistral and Cohere embedding API errors (2 PRs) | [#12054](https://github.com/promptfoo/promptfoo/pull/12054), [#12025](https://github.com/promptfoo/promptfoo/pull/12025) |
+| [**AnythingLLM**](https://github.com/Mintplex-Labs/anything-llm) | File extension from the last path segment only, Voyage AI embedding progress, Foundry Local in onboarding (3 PRs) | [#6997](https://github.com/Mintplex-Labs/anything-llm/pull/6997), [#6882](https://github.com/Mintplex-Labs/anything-llm/pull/6882), [#6884](https://github.com/Mintplex-Labs/anything-llm/pull/6884) |
+
+**In review:** Terraform AWS provider, Pulumi, Firebase CLI, Hugging Face smolagents, Sphinx, LlamaIndex, boto3, Directus.
+
 ## 🏆 Achievements
 
-- 🧩 Solved **300+ DSA problems** on LeetCode
+- 🧩 Solved **500+ DSA problems** on LeetCode
 - 🥈 **Runner-Up**, LNMIIT HackCrux Hackathon — built **OARFIN**, a disaster-management platform
 - 🎓 **GenAI Workshop, LNMIIT** (100/100): Full-stack AI — ANN, CNN, RNN, LLMs, RAG, prompt engineering
 
