@@ -29,7 +29,7 @@
 | [**promptfoo**](https://github.com/promptfoo/promptfoo) | Surface Mistral and Cohere embedding API errors (2 PRs) | [#12054](https://github.com/promptfoo/promptfoo/pull/12054), [#12025](https://github.com/promptfoo/promptfoo/pull/12025) |
 | [**AnythingLLM**](https://github.com/Mintplex-Labs/anything-llm) | File extension from the last path segment only, Voyage AI embedding progress, Foundry Local in onboarding (3 PRs) | [#6997](https://github.com/Mintplex-Labs/anything-llm/pull/6997), [#6882](https://github.com/Mintplex-Labs/anything-llm/pull/6882), [#6884](https://github.com/Mintplex-Labs/anything-llm/pull/6884) |
 
-**In review:** Terraform AWS provider, Pulumi, Firebase CLI, Hugging Face smolagents, Sphinx, LlamaIndex, boto3, Directus.
+**In review:** [Terraform AWS provider](https://github.com/hashicorp/terraform-provider-aws/pull/50854) ([2](https://github.com/hashicorp/terraform-provider-aws/pull/50860), [3](https://github.com/hashicorp/terraform-provider-aws/pull/50882), [4](https://github.com/hashicorp/terraform-provider-aws/pull/50884)), [Pulumi](https://github.com/pulumi/pulumi/pull/25664), [Firebase CLI](https://github.com/firebase/firebase-tools/pull/11481), [Hugging Face smolagents](https://github.com/huggingface/smolagents/pull/3149), [Sphinx](https://github.com/sphinx-doc/sphinx/pull/14830), [LlamaIndex](https://github.com/run-llama/llama_index/pull/23967), [boto3](https://github.com/boto/boto3/pull/4874), [Directus](https://github.com/directus/directus/pull/28460), [AWS SAM CLI](https://github.com/aws/aws-sam-cli/pull/9406) ([2](https://github.com/aws/aws-sam-cli/pull/9412)), [promptfoo](https://github.com/promptfoo/promptfoo/pull/12227).
 
 ## 🏆 Achievements
 
